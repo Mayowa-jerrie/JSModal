@@ -24,6 +24,4 @@ const mayowa = document.querySelector(".mayowa"),
         mayowa.style.display = "none";
 
     }
-    
-
  }
